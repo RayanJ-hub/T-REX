@@ -75,7 +75,7 @@ restart.visible = false;
 }
 
 function draw() {
-  background(180);
+  background("lime");
   
   
   text("Score: "+ count, 500,50);
